@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm intend to be a Software Developer
+i'm intend to be a Software Developer.
 
 
 ## 🌐 Socials:
